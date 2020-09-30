@@ -1,0 +1,3 @@
+# zaglavie
+
+kakvoto e - takova....
