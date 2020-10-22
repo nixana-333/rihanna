@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building. . xaxaxaaxaxaxax'
+                echo 'Building. . xaxxxxxxxxaxaaxaxaxax'
             }
         }
         stage('Test') {
