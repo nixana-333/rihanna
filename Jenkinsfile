@@ -8,7 +8,6 @@ pipeline {
                     echo 'Builaxaxaaxaxding. . xaxxx1231232131xxxxxaxaaxaxaxax'
                     echo "$PWD"
                     echo "$M2_HOME"
-                    mvn --version
                 }
                 
                 
