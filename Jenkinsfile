@@ -7,7 +7,6 @@ pipeline {
                 script {
                     echo 'Builaxaxaaxaxding. . xaxxx1231232131xxxxxaxaaxaxaxax'
                     echo "$PWD"
-                    echo "$M2_HOME"
                 }
                 
                 
